@@ -34,3 +34,11 @@ For the commit message, use:
 
 ```text
 Add starter README for Linux system audit project
+
+## How to Run
+
+Open a terminal in Linux and run:
+
+```bash
+chmod +x linux_audit.sh
+./linux_audit.sh
